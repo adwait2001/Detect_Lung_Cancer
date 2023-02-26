@@ -1,0 +1,22 @@
+.purpose-why
+{
+    color: #fff;
+}
+.purpose-heading
+{
+    color: #fff;
+    text-align: center;
+}
+
+.horizontal-line{
+    width:50px;
+    color:#fff;
+    border-top: 3px solid white;
+
+
+}
+
+.why-img
+{
+    justify-content: center;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+* {
+    box-sizing: border-box;
+}
+
+.w-50 {
+    width: 40% !important;
+}
+
+.LoginContainer {
+    border: 2px solid black;
+    background-color: #fff;
+    border-radius: 2%;
+    padding: 50px;
+}
+
+.p-3 {
+    padding: 3rem !important;
+    padding-left: 8rem !important;
+    padding-right: 8rem !important;
+}
+
+
+/* body {
+    background-color: #032248 !important;
+} */
+
+.LoginPage h1,
+h6 {
+    color: #fff;
+    text-align: center;
+}
+
+.LoginPage {
+    background-color: #032248 !important;
+    height: 950px;
+}
+
+.mt-5,
+.my-5 {
+    margin-top: 1.2rem!important;
+}

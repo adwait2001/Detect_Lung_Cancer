@@ -1,0 +1,30 @@
+.display-banner
+{
+    color: #fff;
+}
+
+.desc
+{
+    color: #A5A4A6;
+    font-size: 20px;
+}
+
+.detect-now
+{
+    padding: 20px 30px;
+    background-color: #fff;
+    color: #032248;
+    font-weight: 700;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.first-intro
+{
+    padding: 50px 0px;
+}
+
+.second-pic
+{
+    margin-right: 30px;;
+}

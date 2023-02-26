@@ -1,0 +1,25 @@
+.service-heading{
+    text-align: center;
+}
+
+hr{
+    width:50px;
+    color:#000;
+    border-top: 3px solid black;
+}
+
+.service-para{
+    padding: 20px 200px;
+    text-align: center;
+    color: #7D7987;
+    font-size: 16px;
+}
+
+.card-start{
+    padding: 20px;
+    border-radius: 20px;;
+}
+
+.img-class{
+    padding: 0px 20px;
+}

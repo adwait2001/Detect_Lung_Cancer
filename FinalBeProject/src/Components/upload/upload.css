@@ -1,0 +1,59 @@
+.uploadDiv {
+    border: 2px solid black;
+    border-radius: 2%;
+    /* margin: 10%; */
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: #fff;
+    margin-bottom: 20%;
+    /* padding-left:; */
+}
+
+.fileDetails p,
+h2 {
+    color: black;
+}
+
+.MainUpload {
+    margin: auto;
+    text-align: center;
+    background-color: #032248;
+    height: 750px;
+}
+
+.MainUpload p {
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #fff;
+}
+
+.uploadDiv h1 {
+    padding: 2%;
+    /* color: #fff; */
+}
+
+.MainUpload h2 {
+    color: #fff;
+    margin-top: 3%;
+}
+
+.uploadDiv h3 {
+    padding: 2%;
+    padding-top: 1%;
+    /* color: #fff; */
+}
+
+.fileDetails p,
+h2 {
+    color: black;
+}
+
+.fileDetails span {
+    font-weight: bold;
+}
